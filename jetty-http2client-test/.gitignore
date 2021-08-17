@@ -1,0 +1,14 @@
+# **
+**/.DS_Store
+**/.assets
+**/.checkstyle
+**/.classes
+**/.classpath
+**/.dist
+**/.m2
+**/.metadata
+**/.project
+**/.settings
+**/.stage
+**/.tomcatplugin
+**/bin
